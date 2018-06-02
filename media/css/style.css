@@ -5,6 +5,13 @@
     text-align: center;
 }
 
+.navSecond{
+    background-color: white;
+    padding: 20px;
+    color: blue;
+    text-align: center;
+}
+
 .container-fluid{
     padding-right:0;
     padding-left:0;
