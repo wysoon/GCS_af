@@ -1,0 +1,12 @@
+.navFirst{
+    background-color:  #032d41;
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
+
+.container-fluid{
+    padding-right:0;
+    padding-left:0;
+}
+
