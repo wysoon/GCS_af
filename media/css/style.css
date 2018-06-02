@@ -10,7 +10,6 @@
     padding: 20px;
     color: blue;
     text-align: center;
-    
 }
 .callus{
     text-align: right;
@@ -31,6 +30,7 @@
     width: 52px;
     font-size: 37px;
     text-align: left;
+    
 }
 .hdbox-right{
     font-size: 17px;
@@ -39,6 +39,7 @@
     vertical-align: middle;
     color: #666;
     font-weight: 300;
+    
 }
 .hdbox-right span{
     color: #000;
