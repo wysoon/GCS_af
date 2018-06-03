@@ -886,3 +886,21 @@ footer .subscribe_us button:focus {
 .copyright a {
     color: #00b7f1;
 }
+
+
+.about-text{
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    color: #777777;
+    line-height: 1.8em;
+    font-weight: 400;
+    margin-left: 5px;
+}
+
+.about-area{
+    background: #f9f9f9;
+    padding: 90px 0 80px;
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+}
